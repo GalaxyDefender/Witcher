@@ -6,3 +6,11 @@ body {
     background: url("../img/Background.jpg");
     background-size: cover;
 }
+
+.wolf {
+    float: left;
+}
+
+.bear {
+    float: right;
+}
