@@ -7,10 +7,23 @@ body {
     background-size: cover;
 }
 
-.wolf {
-    float: left;
+.row1,
+.row2{
+    margin-top: 125px;
 }
 
-.bear {
+.wolf,
+.cat {
+    float: left;
+/*    margin-bottom: 50px;*/
+}
+
+.bear,
+.griffin {
     float: right;
+}
+
+.viper {
+/*    float: */
+    
 }
